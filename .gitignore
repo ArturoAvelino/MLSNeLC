@@ -1,0 +1,27 @@
+#------ python -------------
+
+# *.ipynb
+*.html
+*.pyc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+#------- r -----------
+
+.Rproj.user
+.Rapp.history
+.RData
+.Rhistory
+*.Rproj
+
+#------- bash ------------
+
+*.sh
+
+#------- diverse ------------
+
+*.txt
+.gitattributes
+.DS_Store
+*.log
